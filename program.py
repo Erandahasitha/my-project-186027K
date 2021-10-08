@@ -1,3 +1,6 @@
-value = 10
+from computer import Computer
+
+
+computer = Computer('A')
 print('hello')
-print(value)
+print(computer.value)
