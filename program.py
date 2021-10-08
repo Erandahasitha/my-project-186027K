@@ -1,6 +1,7 @@
 from computer import Computer
 
-
-computer = Computer('A')
+computer1 = Computer('A')
+computer2 = Computer('B')
 print('hello')
-print(computer.value)
+print(computer1.value)
+print(computer2.value)
